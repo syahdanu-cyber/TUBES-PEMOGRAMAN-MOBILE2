@@ -96,7 +96,7 @@ edumart-marketplace/
 
 Clone repository
 
-git clone https://github.com/username/edumart-marketplace.git
+[git clone https://github.com/username/edumart-marketplace.git](https://github.com/syahdanu-cyber/UAS-PEMOGRAMAN-MOBILE-2)
 
 
 Import database ke MySQL
